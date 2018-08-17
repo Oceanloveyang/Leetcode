@@ -1,12 +1,13 @@
 # :pencil2: Leetcode Solutions with Java,Python
-Update time:  2018-08-17 11:51:07
-Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
+Update time:  2018-08-17 12:14:59
+
 I have solved **19   /   835** problems
+
 while there are **139** problems still locked.
-If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
+
 If you have any question, please give me an [issue](https://github.com/Oceanloveyang/Leetcode/issues).
-If you are loving solving problems in leetcode, please contact me to enjoy it together!
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)||[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
