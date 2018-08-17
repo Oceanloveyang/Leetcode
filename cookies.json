@@ -1,0 +1,29 @@
+[
+  {
+    "domain": ".leetcode.com",
+    "expiry": 1535687426.66916,
+    "httpOnly": true,
+    "name": "LEETCODE_SESSION",
+    "path": "/",
+    "secure": true,
+    "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJfYXV0aF91c2VyX2lkIjoiNDA0MTUxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI2NjE0NDg0N2EzYTMwODVkODliOWY5NTc1NTlhODc4NWU2Mjc5ZDRjIiwiaWQiOjQwNDE1MSwiZW1haWwiOiJvY2VhbmxvdmV5YW5nQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiT2NlYW55YW5nIiwidXNlcl9zbHVnIjoib2NlYW55YW5nIiwiYXZhdGFyIjoiaHR0cHM6Ly93d3cuZ3JhdmF0YXIuY29tL2F2YXRhci8zNGUyZTEwOTA4OTI1MTJlZDdmMTgwNjllZGYxODM2OS5wbmc_cz0yMDAiLCJ0aW1lc3RhbXAiOiIyMDE4LTA4LTE3IDAzOjUwOjI2LjU0MzQ5NSswMDowMCIsIlJFTU9URV9BRERSIjoiMTgzLjIxNi4zMS43NyIsIklERU5USVRZIjoiNjg1YjBmMmZmOGUxMmM0ZTUzOTBlNDQ2NzFkM2QxMmUiLCJfc2Vzc2lvbl9leHBpcnkiOjEyMDk2MDB9.sqF74UpkF48gyyJWqR0V_L4umx5k_Tn77DKC6RIruuo"
+  },
+  {
+    "domain": "leetcode.com",
+    "expiry": 1565927428.141938,
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "secure": true,
+    "value": "N2oeKoSVC9mo0YJBPuiWYwDfvNZttwnJlXnq4URk4fqacaPkP24NUWY20V1GdICT"
+  },
+  {
+    "domain": ".leetcode.com",
+    "expiry": 1566013822.561487,
+    "httpOnly": true,
+    "name": "__cfduid",
+    "path": "/",
+    "secure": false,
+    "value": "dc6e869c3f6cf4692e59d816005db53ce1534477822"
+  }
+]
