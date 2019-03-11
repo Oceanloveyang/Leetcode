@@ -17,7 +17,7 @@ from selenium import webdriver
 from collections import namedtuple, OrderedDict
 
 HOME = Path.cwd()
-SOLUTION_FOLDER_NAME = 'solutions'
+SOLUTION_FOLDER_NAME = 'src/solutions'
 SOLUTION_FOLDER = Path.joinpath(HOME, SOLUTION_FOLDER_NAME)
 CONFIG_FILE = Path.joinpath(HOME, 'config.cfg')
 COOKIE_PATH = Path.joinpath(HOME, 'cookies.json')
@@ -469,7 +469,7 @@ class Leetcode:
         check_and_make_dir(path)
         for slt in slts:
             fname = '{title}.{ext}'.format(
-                title=qtitle, ext=self.prolangdict[slt['lang']].ext
+                title="Solution", ext=self.prolangdict[slt['lang']].ext
             )
             filename = Path.joinpath(path, fname)
             content = self._get_code_with_anno(slt)
