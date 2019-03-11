@@ -2,155 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="032a3e09-f5bf-4bf6-a12a-13fffd5d02e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/002-add-two-numbers/add-two-numbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/005-longest-palindromic-substring/longest-palindromic-substring.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/008-string-to-integer-atoi/string-to-integer-atoi.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/010-regular-expression-matching/regular-expression-matching.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/011-container-with-most-water/container-with-most-water.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/015-3sum/3sum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/022-generate-parentheses/generate-parentheses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/029-divide-two-integers/divide-two-integers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/048-rotate-image/rotate-image.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/049-group-anagrams/group-anagrams.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/166-fraction-to-recurring-decimal/fraction-to-recurring-decimal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/290-word-pattern/word-pattern.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/318-maximum-product-of-word-lengths/maximum-product-of-word-lengths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/347-top-k-frequent-elements/top-k-frequent-elements.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/451-sort-characters-by-frequency/sort-characters-by-frequency.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/001-two-sum/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/002-add-two-numbers/add-two-numbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/003-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/004-median-of-two-sorted-arrays/median-of-two-sorted-arrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/005-longest-palindromic-substring/longest-palindromic-substring.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/008-string-to-integer-atoi/string-to-integer-atoi.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/010-regular-expression-matching/regular-expression-matching.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/011-container-with-most-water/container-with-most-water.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/014-longest-common-prefix/longest-common-prefix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/015-3sum/3sum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/017-letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/018-4sum/4sum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/019-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/020-valid-parentheses/valid-parentheses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/022-generate-parentheses/generate-parentheses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/029-divide-two-integers/divide-two-integers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/032-longest-valid-parentheses/longest-valid-parentheses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/039-combination-sum/combination-sum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/040-combination-sum-ii/combination-sum-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/045-jump-game-ii/jump-game-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/046-permutations/permutations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/048-rotate-image/rotate-image.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/049-group-anagrams/group-anagrams.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/051-n-queens/n-queens.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/055-jump-game/jump-game.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/062-unique-paths/unique-paths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/063-unique-paths-ii/unique-paths-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/069-sqrtx/sqrtx.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/072-edit-distance/edit-distance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/077-combinations/combinations.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/079-word-search/word-search.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/091-decode-ways/decode-ways.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/092-reverse-linked-list-ii/reverse-linked-list-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/093-restore-ip-addresses/restore-ip-addresses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/094-binary-tree-inorder-traversal/binary-tree-inorder-traversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/095-unique-binary-search-trees-ii/unique-binary-search-trees-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/096-unique-binary-search-trees/unique-binary-search-trees.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/1021-distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/103-binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/106-construct-binary-tree-from-inorder-and-postorder-traversal/construct-binary-tree-from-inorder-and-postorder-traversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/114-flatten-binary-tree-to-linked-list/flatten-binary-tree-to-linked-list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/116-populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/117-populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/123-best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/127-word-ladder/word-ladder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/130-surrounded-regions/surrounded-regions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/138-copy-list-with-random-pointer/copy-list-with-random-pointer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/139-word-break/word-break.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/141-linked-list-cycle/linked-list-cycle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/142-linked-list-cycle-ii/linked-list-cycle-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/146-lru-cache/lru-cache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/148-sort-list/sort-list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/151-reverse-words-in-a-string/reverse-words-in-a-string.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/152-maximum-product-subarray/maximum-product-subarray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/166-fraction-to-recurring-decimal/fraction-to-recurring-decimal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/173-binary-search-tree-iterator/binary-search-tree-iterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/188-best-time-to-buy-and-sell-stock-iv/best-time-to-buy-and-sell-stock-iv.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/199-binary-tree-right-side-view/binary-tree-right-side-view.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/200-number-of-islands/number-of-islands.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/204-count-primes/count-primes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/206-reverse-linked-list/reverse-linked-list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/207-course-schedule/course-schedule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/208-implement-trie-prefix-tree/implement-trie-prefix-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/215-kth-largest-element-in-an-array/kth-largest-element-in-an-array.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/216-combination-sum-iii/combination-sum-iii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/221-maximal-square/maximal-square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/224-basic-calculator/basic-calculator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/227-basic-calculator-ii/basic-calculator-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/230-kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/235-lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/236-lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/241-different-ways-to-add-parentheses/different-ways-to-add-parentheses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/257-binary-tree-paths/binary-tree-paths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/263-ugly-number/ugly-number.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/278-first-bad-version/first-bad-version.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/284-peeking-iterator/peeking-iterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/290-word-pattern/word-pattern.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/299-bulls-and-cows/bulls-and-cows.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/301-remove-invalid-parentheses/remove-invalid-parentheses.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/303-range-sum-query-immutable/range-sum-query-immutable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/309-best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/315-count-of-smaller-numbers-after-self/count-of-smaller-numbers-after-self.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/318-maximum-product-of-word-lengths/maximum-product-of-word-lengths.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/322-coin-change/coin-change.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/338-counting-bits/counting-bits.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/343-integer-break/integer-break.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/344-reverse-string/reverse-string.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/347-top-k-frequent-elements/top-k-frequent-elements.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/376-wiggle-subsequence/wiggle-subsequence.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/377-combination-sum-iv/combination-sum-iv.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/416-partition-equal-subset-sum/partition-equal-subset-sum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/440-k-th-smallest-in-lexicographical-order/k-th-smallest-in-lexicographical-order.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/451-sort-characters-by-frequency/sort-characters-by-frequency.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/455-assign-cookies/assign-cookies.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/460-lfu-cache/lfu-cache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/493-reverse-pairs/reverse-pairs.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/494-target-sum/target-sum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/540-single-element-in-a-sorted-array/single-element-in-a-sorted-array.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/541-reverse-string-ii/reverse-string-ii.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/547-friend-circles/friend-circles.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/583-delete-operation-for-two-strings/delete-operation-for-two-strings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/611-valid-triangle-number/valid-triangle-number.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/646-maximum-length-of-pair-chain/maximum-length-of-pair-chain.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/650-2-keys-keyboard/2-keys-keyboard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/654-maximum-binary-tree/maximum-binary-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/655-print-binary-tree/print-binary-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/662-maximum-width-of-binary-tree/maximum-width-of-binary-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/684-redundant-connection/redundant-connection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/695-max-area-of-island/max-area-of-island.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/714-best-time-to-buy-and-sell-stock-with-transaction-fee/best-time-to-buy-and-sell-stock-with-transaction-fee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/745-find-smallest-letter-greater-than-target/find-smallest-letter-greater-than-target.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/778-reorganize-string/reorganize-string.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/784-insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/896-smallest-subtree-with-all-the-deepest-nodes/smallest-subtree-with-all-the-deepest-nodes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/936-rle-iterator/rle-iterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/937-online-stock-span/online-stock-span.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/938-numbers-at-most-n-given-digit-set/numbers-at-most-n-given-digit-set.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/940-fruit-into-baskets/fruit-into-baskets.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FindTarget/find-target.java" afterPath="$PROJECT_DIR$/FindTarget/find-target.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetcode_generate.py" afterPath="$PROJECT_DIR$/leetcode_generate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/001-two-sum/Solution.java" afterPath="$PROJECT_DIR$/src/solutions/001-two-sum/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/002-add-two-numbers/Solution.java" afterPath="$PROJECT_DIR$/src/solutions/002-add-two-numbers/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/051-n-queens/Solution.java" afterPath="$PROJECT_DIR$/src/solutions/051-n-queens/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/051-n-queens/n-queens.java" afterPath="$PROJECT_DIR$/src/solutions/051-n-queens/n-queens.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/204-count-primes/Solution.java" afterPath="$PROJECT_DIR$/src/solutions/204-count-primes/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/204-count-primes/count-primes.java" afterPath="$PROJECT_DIR$/src/solutions/204-count-primes/count-primes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/421-maximum-xor-of-two-numbers-in-an-array/Solution.py" afterPath="$PROJECT_DIR$/src/solutions/421-maximum-xor-of-two-numbers-in-an-array/Solution.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.py" afterPath="$PROJECT_DIR$/src/solutions/421-maximum-xor-of-two-numbers-in-an-array/maximum-xor-of-two-numbers-in-an-array.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/662-maximum-width-of-binary-tree/Solution.java" afterPath="$PROJECT_DIR$/src/solutions/662-maximum-width-of-binary-tree/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/solutions/662-maximum-width-of-binary-tree/maximum-width-of-binary-tree.java" afterPath="$PROJECT_DIR$/src/solutions/662-maximum-width-of-binary-tree/maximum-width-of-binary-tree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,39 +25,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="find-target.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FindTarget/find-target.java">
+    <leaf>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/solutions/003-longest-substring-without-repeating-characters/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="81" column="38" lean-forward="false" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#2571#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="longest-valid-parentheses.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/solutions/032-longest-valid-parentheses/longest-valid-parentheses.java">
+      <file leaf-file-name="distribute-coins-in-binary-tree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solutions/1021-distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#1004#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generate-parentheses.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/solutions/022-generate-parentheses/generate-parentheses.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/solutions/1021-distribute-coins-in-binary-tree/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#788#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -215,6 +73,10 @@
         <option value="$PROJECT_DIR$/FindTarget/find-target.java" />
         <option value="$PROJECT_DIR$/solutions/001-two-sum/two-sum.java" />
         <option value="$PROJECT_DIR$/solutions/001-two-sum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/solutions/002-add-two-numbers/Solution.java" />
+        <option value="$PROJECT_DIR$/src/solutions/001-two-sum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/solutions/003-longest-substring-without-repeating-characters/Solution_003.java" />
+        <option value="$PROJECT_DIR$/src/solutions/003-longest-substring-without-repeating-characters/Solution.java" />
       </list>
     </option>
   </component>
@@ -237,10 +99,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,16 +114,11 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -385,7 +241,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -399,7 +254,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -411,7 +267,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -469,19 +324,33 @@
     <entry file="file://$PROJECT_DIR$/451-sort-characters-by-frequency/sort-characters-by-frequency.java" />
     <entry file="file://$PROJECT_DIR$/451-sort-characters-by-frequency/sort-characters-by-frequency.java" />
     <entry file="file://$PROJECT_DIR$/451-sort-characters-by-frequency/sort-characters-by-frequency.java" />
-    <entry file="file://$PROJECT_DIR$/solutions/646-maximum-length-of-pair-chain/maximum-length-of-pair-chain.java">
+    <entry file="file://$PROJECT_DIR$/solutions/646-maximum-length-of-pair-chain/maximum-length-of-pair-chain.java" />
+    <entry file="file://$PROJECT_DIR$/solutions/001-two-sum/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode_generate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solutions/001-two-sum/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/solutions/022-generate-parentheses/generate-parentheses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="450">
+          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/032-longest-valid-parentheses/longest-valid-parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#1004#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -495,31 +364,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solutions/032-longest-valid-parentheses/longest-valid-parentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/solutions/001-two-sum/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#1004#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_generate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/solutions/022-generate-parentheses/generate-parentheses.java">
+    <entry file="file://$PROJECT_DIR$/src/solutions/002-add-two-numbers/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#788#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/002-add-two-numbers/add-two-numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/1021-distribute-coins-in-binary-tree/distribute-coins-in-binary-tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/1021-distribute-coins-in-binary-tree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="73" column="6" lean-forward="false" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solutions/003-longest-substring-without-repeating-characters/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
